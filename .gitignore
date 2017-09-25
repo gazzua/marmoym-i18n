@@ -186,3 +186,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/git,node,linux,macos,windows,webstorm+all
+
+.filler
