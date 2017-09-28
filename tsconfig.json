@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "allowJs": true,
+    "target": "es5",
+    "outDir": "./lib"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}

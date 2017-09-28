@@ -1,0 +1,17 @@
+{
+  "name": "marmoym-i18n",
+  "version": "1.0.0",
+  "description": "Marmoym-i18n",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn run build && node ./lib/index.js",
+    "temp": "echo power >> './temp.md'",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.5.3"
+  }
+}
