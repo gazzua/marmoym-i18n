@@ -1,3 +1,1 @@
-exports.default = {
-  "power": "파워"
-};
+module.exports = {"definition.label":"파워","definition.power":"파워"}
