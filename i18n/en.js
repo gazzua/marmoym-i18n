@@ -1,1 +1,1 @@
-module.exports = {"definition.label":"1","definition.power":"1"}
+module.exports = {"queryDisplay.placeholder":"What to search?","definition.label":"1","definition.power":"1"}

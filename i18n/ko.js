@@ -1,1 +1,1 @@
-module.exports = {"definition.label":"파워","definition.power":"파워"}
+module.exports = {"queryDisplay.placeholder":"검색어를 입력하세요","definition.label":"파워","definition.power":"파워"}
