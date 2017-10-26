@@ -4,7 +4,7 @@
   "description": "Marmoym-i18n",
   "main": "index.js",
   "scripts": {
-    "start": "yarn run build && node ./lib/index.js",
+    "start": "yarn run build && node ./lib/generate.js",
     "temp": "echo power >> './temp.md'",
     "build": "./node_modules/typescript/bin/tsc -p tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"

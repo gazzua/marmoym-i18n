@@ -1,4 +1,4 @@
-import { Root } from './i18nTypes';
+import { Root } from './src/i18nTypes';
 
 const root: Root = {
   "queryDisplay.placeholder": {

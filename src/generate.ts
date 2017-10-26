@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-import i18n from './data/i18n';
+import i18n from '../i18n';
 
 var ko = {};
 var en = {};
@@ -19,5 +19,5 @@ for (let key in i18n) {
 }
 
 // Write to i18n js file
-fs.writeFileSync('./i18n//ko.js', header + JSON.stringify(ko), 'utf-8'); 
-fs.writeFileSync('./i18n//en.js', header + JSON.stringify(en), 'utf-8'); 
+fs.writeFileSync('./i18n/ko.js', header + JSON.stringify(ko), 'utf-8'); 
+fs.writeFileSync('./i18n/en.js', header + JSON.stringify(en), 'utf-8'); 
