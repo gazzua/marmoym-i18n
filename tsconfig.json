@@ -5,7 +5,7 @@
     "removeComments": true,
     "allowJs": true,
     "target": "es5",
-    "outDir": "./lib"
+    "outDir": "./build"
   },
   "include": [
     "src/**/*"

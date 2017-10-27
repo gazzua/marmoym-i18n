@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-import i18n from '../i18n';
+import i18n from '../i18n.data';
 
 var ko = {};
 var en = {};
